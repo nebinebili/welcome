@@ -1,0 +1,21 @@
+
+
+.main{
+ 	
+ 	
+ 	background-position: center;
+ 	background-repeat: no-repeat;
+ 	background-size: cover; 	
+ 	 	height: 600px;
+ 	 	width: 100%;
+ 	clip-path: polygon(0% 0%, 100% 0%,100% 50%, 49% 65%, 0% 50%);
+ }
+
+.main1{
+	align-items: center;
+	color: lightblue;
+}
+
+.main2{
+	color: yellow;
+}
